@@ -61,7 +61,7 @@ test.describe("Logged-in User flows", () =>{
         });
     }); 
 
-    //use session
+    //use session.
     test.use({
         storageState: 'playwright/.auth/user.json'
     });
