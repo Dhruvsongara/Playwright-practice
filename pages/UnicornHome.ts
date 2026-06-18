@@ -1,4 +1,6 @@
 import {Page, Locator, expect} from "@playwright/test"
+// import { ENV } from "../config/env";
+import { configDotenv } from "dotenv";
 
 export class UnicornHome {
     
@@ -29,7 +31,7 @@ export class UnicornHome {
     }
 
     async unicornURL(){
-        await this.page.goto("https://shop.unicornstore.in/",{timeout:90000});
+        await this.page.goto(process.env.BASE_URL!,{timeout:90000});
     }
 
     async pageCheck(){

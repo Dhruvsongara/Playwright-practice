@@ -1,3 +1,318 @@
 {
-  
+  "cookies": [
+    {
+      "name": "taboola_session_id",
+      "value": "v2_916cb4079ea3c308ae1bbd7cceff911c_c2ad7046-f214-4070-8f98-f7e037476074-tuct112d6991_1781785622_1781785622_CNawjgYQmqt1GNXry9XtMyABKAMwZziY0QpA348QSL7x1gNQqN0VWABgAGiWv6eipvStmlNwAYABAIgBAJABAA",
+      "domain": ".taboola.com",
+      "path": "/taboolaaccount-hammadtangodownin/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "X-AB",
+      "value": "fded558630514a92901bebb829452d3e",
+      "domain": "sc-static.net",
+      "path": "/scevent.min.js",
+      "expires": 1781872014.787788,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zabUserId",
+      "value": "1781785611380zabu0.9599529706019108",
+      "domain": "shop.unicornstore.in",
+      "path": "/",
+      "expires": 1813321611,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zscacdeba83cc594ee5ba567f2305d3430b",
+      "value": "1781785611399zsc0.12117911018374039",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1781787422,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zft-sdc",
+      "value": "isef%3Dtrue-isfr%3Dtrue-source%3Ddirect",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1781807399,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1523437132.1781785611",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1816345625.338106,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "zfccn",
+      "value": "371bf11f-ea2e-4ed0-b47d-e1c91e16c5b2",
+      "domain": "pagesense-collect.zoho.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CLID",
+      "value": "6c7907758edf45b0b09e3e63604a7eb5.20260618.20270618",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1813321614.462084,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zfccn",
+      "value": "852f4f0e-3038-4634-83f5-079f08ded594",
+      "domain": "pagesense-hb-collect.zoho.in",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_scid",
+      "value": "FcFTEtG3ydC7ssNlz2NblfjWH5i4p-Up",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1815913614,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "t_gid",
+      "value": "c2ad7046-f214-4070-8f98-f7e037476074-tuct112d6991",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1813321624.44329,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "t_pt_gid",
+      "value": "c2ad7046-f214-4070-8f98-f7e037476074-tuct112d6991",
+      "domain": ".taboola.com",
+      "path": "/",
+      "expires": 1813321624.443456,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://unicornstore.in",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "_clck",
+      "value": "v49yvz%5E2%5Eg70%5E0%5E2360",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1813321617,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1781785620794",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1786969620.951456,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "f0020ef8-1733-407b-8a77-f78b874ec579",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1786969620.951654,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1786969620.951819,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sc_at",
+      "value": "v2|H4sIAAAAAAAA/03IwQ0AIAgEwYpIDkSOWI5oFxavT5N9TLbQLVq4ENjipUvSOEWZVmS1RBx1jDdePUzPR1xG3N3rQAAAAA==",
+      "domain": ".snapchat.com",
+      "path": "/",
+      "expires": 1815481621.035321,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sctr",
+      "value": "1%7C1781721000000",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1815913621,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_0EBNN1B5RL",
+      "value": "GS2.1.s1781785611$o1$g1$t1781785621$j50$l0$h0",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1816345621.334289,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmWCqUXmEsVoNswLwkw8dtxv40zO2cDytcxXQDyiEi41H_nGKuuYuzh5dqc",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1816345621.420973,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_scid_r",
+      "value": "HkFTEtG3ydC7ssNlz2NblfjWH5i4p-Upilto1A",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1815913621,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "zps-tgr-dts",
+      "value": "sc%3D1-expAppOnNewSession%3D%5B%5D-pc%3D2-sesst%3D1781785611400",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1813321611,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clsk",
+      "value": "1ej003i%5E1781785622640%5E1%5E1%5El.clarity.ms%2Fcollect",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1781872022,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SM",
+      "value": "T",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "35E72691CF7A6FA2120731EDCB7A617B",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1815481624.709082,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_9EHTP9PLCZ",
+      "value": "GS2.1.s1781785611$o1$g1$t1781785624$j47$l0$h1415276413",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1816345624.91781,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1690870707.1781785611.1946030824.1781785625.1781785625",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1789561611,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_9EHTP9PNCZ",
+      "value": "GS2.1.s1781785625$o1$g0$t1781785625$j60$l0$h0",
+      "domain": ".unicornstore.in",
+      "path": "/",
+      "expires": 1816345625.337628,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://shop.unicornstore.in",
+      "localStorage": [
+        {
+          "name": "customer_token",
+          "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoic2hyaWtlZWxhYnMuYnVzaW5lc3NAZ21haWwuY29tIiwiaWF0IjoxNzgxNzg1NjI2LCJleHAiOjE3ODQzNzc2MjZ9.Kiag5JIgFSYBt94dVp5MP0ZZGOM_39rOyDrviI7nhCc"
+        },
+        {
+          "name": "customer_data",
+          "value": "{\"id\":\"721614\",\"firstname\":\"Dhaval\",\"lastname\":\"rathod\",\"email\":\"shrikeelabs.business@gmail.com\",\"email_subscribe\":\"0\",\"phone\":\"9157483441\",\"company\":\"shrikee labs\",\"default_billing_address\":\"1\",\"default_shipping_address\":\"2\",\"ship_to_bill_address\":\"true\",\"gst\":null,\"gender\":null,\"token\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoic2hyaWtlZWxhYnMuYnVzaW5lc3NAZ21haWwuY29tIiwiaWF0IjoxNzgxNzg1NjI2LCJleHAiOjE3ODQzNzc2MjZ9.Kiag5JIgFSYBt94dVp5MP0ZZGOM_39rOyDrviI7nhCc\",\"active\":\"1\"}"
+        },
+        {
+          "name": "guest",
+          "value": "not-allowed"
+        }
+      ]
+    },
+    {
+      "origin": "https://tr.snapchat.com",
+      "localStorage": [
+        {
+          "name": "u_sclid_r",
+          "value": "LRxtim1L-yl2cPm6YknxWiEgKQBEOyLhtiltKut90PGyvkHtpOdm4oE-KaDCbQe5"
+        },
+        {
+          "name": "u_sclid",
+          "value": "LRxtim1L-yl2cPm6YknxWiEgKQBEOyLhtiltKut90PGyvkHtpOdm4oE-KaDCbQe5"
+        }
+      ]
+    }
+  ]
 }
