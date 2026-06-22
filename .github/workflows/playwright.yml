@@ -160,4 +160,25 @@ jobs:
           name: playwright-report-${{ env.TEST_ENV }}
           path: playwright-report/
           retention-days: 30
- 
+
+  notify:
+      needs: test
+      runs-on: ubuntu-latest
+      if: always()
+
+      steps:
+        - name: Send Slack Notification
+          run: |
+            STATUS="${{ needs.test.result }}"
+
+            if [ "$STATUS" = "success" ]; then
+              MESSAGE="✅ Playwright Tests Passed"
+            else
+              MESSAGE="❌ Playwright Tests Failed"
+            fi
+
+            curl -X POST -H "Content-type: application/json" \
+            --data "{
+              \"text\": \"$MESSAGE\n\nEnvironment: ${{ github.event.inputs.test_env || 'qa' }}\nTest Type: ${{ github.event.inputs.testType || 'all' }}\nRepo: ${{ github.repository }}\nBranch: ${{ github.ref_name }}\nTriggered by: ${{ github.actor }}\"
+            }" \
+            ${{ secrets.SLACK_WEBHOOK_URL }} 

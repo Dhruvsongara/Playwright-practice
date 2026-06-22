@@ -35,6 +35,7 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "install": "^0.13.0"
+    "install": "^0.13.0",
+    "mysql2": "^3.22.5"
   }
 }
